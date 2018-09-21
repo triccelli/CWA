@@ -1,2 +1,2 @@
 # CWA
-#calculating individual sensor duration 
+calculating individual sensor duration 
