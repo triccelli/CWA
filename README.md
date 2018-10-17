@@ -1,2 +1,2 @@
 # CWA
-Analyze data from CWA
+Analyze data collected from CWA
