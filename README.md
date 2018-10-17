@@ -1,2 +1,2 @@
 # CWA
-calculating individual sensor duration 
+Analyze data from CWA
